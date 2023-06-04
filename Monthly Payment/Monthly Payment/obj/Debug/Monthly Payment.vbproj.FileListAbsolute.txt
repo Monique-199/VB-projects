@@ -1,0 +1,13 @@
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\bin\Debug\Monthly Payment.exe.config
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\bin\Debug\Monthly Payment.exe
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\bin\Debug\Monthly Payment.pdb
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\bin\Debug\Monthly Payment.xml
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.vbproj.AssemblyReference.cache
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.vbproj.SuggestedBindingRedirects.cache
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly_Payment.Form1.resources
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly_Payment.Resources.resources
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.vbproj.GenerateResource.cache
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.vbproj.CoreCompileInputs.cache
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.exe
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.xml
+C:\Users\inven\OneDrive\Desktop\VB projects\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.pdb
